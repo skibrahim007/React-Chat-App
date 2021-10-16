@@ -1,0 +1,15 @@
+.infobar-container{
+    height:50px;
+    background: #006695;
+    text-align: start;
+    color: white;
+}
+.infobar-container h3{
+    display: flex;
+    align-items: center;
+    
+}
+.infobar-icon{
+    font-size: 30px;
+    padding: 5px;
+}
